@@ -1,0 +1,34 @@
+{
+    "expertises": [
+      {
+        "id": 1,
+        "name":"React JS",
+        "category":"website"
+      },
+      {
+        "id": 2,
+        "name":"Materialize",
+        "category":"website"
+      },
+      {
+        "id": 3,
+        "name":"Flutter",
+        "category":"Mobile Apps"
+      },
+      {
+        "id": 4,
+        "name":"B4A",
+        "category":"Mobile Apps"
+      },
+      {
+        "id": 5,
+        "name":"Visual C#",
+        "category":"Desktop"
+      },
+      {
+        "id": 6,
+        "name":"Visual Basic",
+        "category":"Desktop"
+      }
+    ]
+  }
